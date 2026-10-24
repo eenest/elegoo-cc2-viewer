@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Elegoo Viewer
+Comment=Standalone local camera viewer for Elegoo CC2
+Exec=elegoo-viewer
+Icon=elegoo-viewer
+Terminal=false
+Categories=AudioVideo;Video;
+Keywords=Elegoo;CC2;Camera;Printer;
+StartupNotify=true
